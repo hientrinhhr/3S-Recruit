@@ -1,6 +1,5 @@
-# 3S-Recruit
+#**3S INTERSOFT** APPY CODER, HAPPY CODING FOR A BETTER LIFE!
 Hi, Mình là Hiền-HR 3S intersoft. Cùng cập nhật các thông tin tuyển dụng tại đây nhé !
-**3S INTERSOFT** APPY CODER, HAPPY CODING FOR A BETTER LIFE!
 ***
 ==Giữa cuộc đời hàng ngàn cám dỗ - 3S sẽ là bến đỗ của ứng viên==
 - Job PHP
